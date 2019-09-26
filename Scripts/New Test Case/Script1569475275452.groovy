@@ -38,3 +38,5 @@ WebUI.click(findTestObject('Object Repository/Page_CURA Healthcare Service/a_CUR
 
 WebUI.click(findTestObject('Object Repository/Page_CURA Healthcare Service/a_Logout'))
 
+WebUI.closeBrowser()
+
